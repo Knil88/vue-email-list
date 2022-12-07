@@ -4,4 +4,15 @@
 }
 body{
     font-family: sans-serif;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    color: yellowgreen;
+}
+ul{
+    width: 80%;
+    margin: auto;
 }
